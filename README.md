@@ -31,7 +31,10 @@ As funções são: Cadastro do usuário e Arrays para armazenar os cadastros fei
 
 ### Tecnologias utilizadas
 
-Foram utilizados neste projeto Array, Javascript e CSS.
+* ``HTML 5``
+* ``CSS 3``
+* ``Javascript``
+
 
 ## Fontes consultadas
 * [Mozilla](https://www.mozilla.org/pt-BR/?v=2) - Como escrever um README incrível no seu Github
