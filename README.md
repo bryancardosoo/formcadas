@@ -34,9 +34,8 @@ As funções são: Cadastro do usuário e Arrays para armazenar os cadastros fei
 Foram utilizados neste projeto Array, Javascript e CSS.
 ```
 ## Fontes consultadas
-```
-As fontes quais consultei foram o site Mozilla e Stack Overflow
-```
+* [Mozilla](https://www.mozilla.org/pt-BR/?v=2) - Como escrever um README incrível no seu Github
+* [Alura](https://stackoverflow.com/-) - Um modelo para fazer um README.md
 ## Autores
 ```
 Bryan Cardoso
