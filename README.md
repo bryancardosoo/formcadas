@@ -1,44 +1,43 @@
-# Formulário de cadastro
-registration form with array and link navigation
+# Form-CadEndereco
+form with array and function to search CEP
 
-Formulário de cadastro onde ao se escrever nos campos obrigatórios e apertar no botão concluir, irá desaparecer dos campos e será armazenado no array a partir do script (array) implementado no código. Código script procurado na internet durante as aulas do professor Leonardo de Programação Web.
+Formulário para cadastrar Endereços, busca por CEP automáticamente 
 # Indice
 
 [Projeto de portfólio pessoal](#projeto-de-portf%C3%B3lio-pessoal)
 [Descrição](#descri%C3%A7%C3%A3o)
-[Funcionalidades](https://github.com/bryancardosoo/formcadas-w-array#funcionalidades)
+[Introdução](#introdu%C3%A7%C3%A3o)
+[Funcionalidades](https://github.com/bryancardosoo/formcadas#funcionalidades)
 [Tecnologias utilizadas](#tecnologias-utilizadas)
 [Fontes consultadas](#fontes-consultadas)
 [Autores](#autores)  
 
 # Projeto de portfólio pessoal  
 
-![Capa do projeto](assets/img/capa.png)
+![Capa do projeto](assets/img/tela.png)
 
-Projeto criado utilizando exemplo de bootstrap para ensino de uso do README e do Bootstrap.
+Project created with bootstrap and using a database to search CEP 
 
 ##   Descrição 
 
-Este projeto foi feito em base um formulario, já feito por mim antes, para que incluissemos array sob ele, sendo o objetivo, aperfeiçoar array.
-
-##   Introdução
-
-Formulário de cadastro refeito com array, aprendi sobre formulário de cadastro ano passado e com o mesmo projeto, usei-o novamente e introduzi array sob ele, sendo este array para armazenar os dados (Cadastros feitos nele)
+Project about one form of adress registration form and search of CEP, entering all data street related, neighborhood, automatically from CEP.
 
 ##   Funcionalidades
 
-As funções são: Cadastro do usuário e Arrays para armazenar os cadastros feitos no site.
+The functionalities are: Adress registration form from CEP.
 
 ### Tecnologias utilizadas
 
 * ``HTML 5``
 * ``CSS 3``
 * ``Javascript``
+* ``Bootstrap 5.0 and 5.3``
 
 
 ## Fontes consultadas
-* [Mozilla](https://www.mozilla.org/pt-BR/?v=2) - Como escrever um README incrível no seu Github
-* [Alura](https://stackoverflow.com/-) - Um modelo para fazer um README.md
+* [ViaCEP](https://viacep.com.br/) - Implementação do banco de dados para buscar CEP
+* [Bootstrap](https://getbootstrap.com/docs/5.0/forms/layout/#gutters-)
+
 ## Autores
 
 Bryan Cardoso
